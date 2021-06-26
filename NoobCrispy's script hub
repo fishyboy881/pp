@@ -1,0 +1,1071 @@
+-- NoobCrispy's script hub
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local close = Instance.new("TextButton")
+local infiniteyield = Instance.new("TextButton")
+local TextLabel = Instance.new("TextLabel")
+local breakdance = Instance.new("TextButton")
+local arsnelkillall = Instance.new("TextButton")
+local robloxwaterparkgui = Instance.new("TextButton")
+local Russiankickdancer6 = Instance.new("TextButton")
+local Russainkickdancer15 = Instance.new("TextButton")
+local nameless = Instance.new("TextButton")
+local cappuccino = Instance.new("TextButton")
+local Chatbypass = Instance.new("TextButton")
+local CmdX = Instance.new("TextButton")
+local Chill = Instance.new("TextButton")
+local Memedances = Instance.new("TextButton")
+local Hathub = Instance.new("TextButton")
+local Revizadmin = Instance.new("TextButton")
+local Penis = Instance.new("TextButton")
+local Sniper = Instance.new("TextButton")
+local Stand = Instance.new("TextButton")
+local GaleFighter = Instance.new("TextButton")
+local Gamersprint = Instance.new("TextButton")
+local Grappler = Instance.new("TextButton")
+local Hatfloat = Instance.new("TextButton")
+local Homebrewadmin = Instance.new("TextButton")
+local KnifeGrab = Instance.new("TextButton")
+local Kohlsadminscript = Instance.new("TextButton")
+local Linorix = Instance.new("TextButton")
+local MM2script = Instance.new("TextButton")
+local Blackhole = Instance.new("TextButton")
+local ndsscript = Instance.new("TextButton")
+local necksnap = Instance.new("TextButton")
+local Netbypass = Instance.new("TextButton")
+local Netlessbypass = Instance.new("TextButton")
+local Neptunianv = Instance.new("TextButton")
+local Noobbat = Instance.new("TextButton")
+local Nullwarehub = Instance.new("TextButton")
+local Prisonbreaker = Instance.new("TextButton")
+local PrisonLifekillaura = Instance.new("TextButton")
+local r15animations = Instance.new("TextButton")
+local Retarddance = Instance.new("TextButton")
+local Open = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.ResetOnSpawn = false
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(251, 255, 7)
+Frame.Position = UDim2.new(0.109548487, 0, 0.0662420392, 0)
+Frame.Size = UDim2.new(0, 977, 0, 489)
+
+close.Name = "close"
+close.Parent = Frame
+close.BackgroundColor3 = Color3.fromRGB(100, 255, 76)
+close.Position = UDim2.new(0.923749924, 0, -0.00204498973, 0)
+close.Size = UDim2.new(0, 74, 0, 50)
+close.Font = Enum.Font.SourceSans
+close.Text = "close"
+close.TextColor3 = Color3.fromRGB(0, 0, 0)
+close.TextSize = 14.000
+
+infiniteyield.Name = "infinite yield"
+infiniteyield.Parent = Frame
+infiniteyield.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+infiniteyield.Position = UDim2.new(0.0143295806, 0, 0.139955983, 0)
+infiniteyield.Size = UDim2.new(0, 138, 0, 40)
+infiniteyield.Font = Enum.Font.SourceSans
+infiniteyield.Text = "infinite yield"
+infiniteyield.TextColor3 = Color3.fromRGB(0, 0, 0)
+infiniteyield.TextScaled = true
+infiniteyield.TextSize = 14.000
+infiniteyield.TextWrapped = true
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(28, 28, 255)
+TextLabel.Position = UDim2.new(0, 0, -7.29239036e-05, 0)
+TextLabel.Size = UDim2.new(0, 901, 0, 50)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "Noobcrispy's Script hub"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+breakdance.Name = "break dance"
+breakdance.Parent = Frame
+breakdance.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+breakdance.Position = UDim2.new(0.165813714, 0, 0.141104296, 0)
+breakdance.Size = UDim2.new(0, 139, 0, 39)
+breakdance.Font = Enum.Font.SourceSans
+breakdance.Text = "Break dance"
+breakdance.TextColor3 = Color3.fromRGB(0, 0, 0)
+breakdance.TextScaled = true
+breakdance.TextSize = 14.000
+breakdance.TextWrapped = true
+
+arsnelkillall.Name = "arsnel kill all"
+arsnelkillall.Parent = Frame
+arsnelkillall.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+arsnelkillall.Position = UDim2.new(0.648925304, 0, 0.255623728, 0)
+arsnelkillall.Size = UDim2.new(0, 139, 0, 39)
+arsnelkillall.Font = Enum.Font.SourceSans
+arsnelkillall.Text = "arsnel kill all"
+arsnelkillall.TextColor3 = Color3.fromRGB(0, 0, 0)
+arsnelkillall.TextScaled = true
+arsnelkillall.TextSize = 14.000
+arsnelkillall.TextWrapped = true
+
+robloxwaterparkgui.Name = "roblox water park gui"
+robloxwaterparkgui.Parent = Frame
+robloxwaterparkgui.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+robloxwaterparkgui.Position = UDim2.new(0.80450362, 0, 0.139059305, 0)
+robloxwaterparkgui.Size = UDim2.new(0, 139, 0, 39)
+robloxwaterparkgui.Font = Enum.Font.SourceSans
+robloxwaterparkgui.Text = "RWP Gui"
+robloxwaterparkgui.TextColor3 = Color3.fromRGB(0, 0, 0)
+robloxwaterparkgui.TextScaled = true
+robloxwaterparkgui.TextSize = 14.000
+robloxwaterparkgui.TextWrapped = true
+
+Russiankickdancer6.Name = "Russian kick dance r6"
+Russiankickdancer6.Parent = Frame
+Russiankickdancer6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Russiankickdancer6.Position = UDim2.new(0.649948776, 0, 0.141104296, 0)
+Russiankickdancer6.Size = UDim2.new(0, 139, 0, 39)
+Russiankickdancer6.Font = Enum.Font.SourceSans
+Russiankickdancer6.Text = "russian kick dance r6"
+Russiankickdancer6.TextColor3 = Color3.fromRGB(0, 0, 0)
+Russiankickdancer6.TextScaled = true
+Russiankickdancer6.TextSize = 14.000
+Russiankickdancer6.TextWrapped = true
+
+Russainkickdancer15.Name = "Russain kick dance r15"
+Russainkickdancer15.Parent = Frame
+Russainkickdancer15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Russainkickdancer15.Position = UDim2.new(0.492323458, 0, 0.141104311, 0)
+Russainkickdancer15.Size = UDim2.new(0, 139, 0, 39)
+Russainkickdancer15.Font = Enum.Font.SourceSans
+Russainkickdancer15.Text = "Russain kick dance r15"
+Russainkickdancer15.TextColor3 = Color3.fromRGB(0, 0, 0)
+Russainkickdancer15.TextScaled = true
+Russainkickdancer15.TextSize = 14.000
+Russainkickdancer15.TextWrapped = true
+
+nameless.Name = "nameless"
+nameless.Parent = Frame
+nameless.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+nameless.Position = UDim2.new(0.327533275, 0, 0.141104296, 0)
+nameless.Size = UDim2.new(0, 139, 0, 39)
+nameless.Font = Enum.Font.SourceSans
+nameless.Text = "Nameless"
+nameless.TextColor3 = Color3.fromRGB(0, 0, 0)
+nameless.TextScaled = true
+nameless.TextSize = 14.000
+nameless.TextWrapped = true
+
+cappuccino.Name = "cappuccino"
+cappuccino.Parent = Frame
+cappuccino.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+cappuccino.Position = UDim2.new(0.80450362, 0, 0.255623728, 0)
+cappuccino.Size = UDim2.new(0, 139, 0, 39)
+cappuccino.Font = Enum.Font.SourceSans
+cappuccino.Text = "cappuccino"
+cappuccino.TextColor3 = Color3.fromRGB(0, 0, 0)
+cappuccino.TextScaled = true
+cappuccino.TextSize = 14.000
+cappuccino.TextWrapped = true
+
+Chatbypass.Name = "Chat bypass"
+Chatbypass.Parent = Frame
+Chatbypass.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Chatbypass.Position = UDim2.new(0.0143295806, 0, 0.259713709, 0)
+Chatbypass.Size = UDim2.new(0, 137, 0, 39)
+Chatbypass.Font = Enum.Font.SourceSans
+Chatbypass.Text = "Chat bypass"
+Chatbypass.TextColor3 = Color3.fromRGB(0, 0, 0)
+Chatbypass.TextScaled = true
+Chatbypass.TextSize = 14.000
+Chatbypass.TextWrapped = true
+
+CmdX.Name = "Cmd-X"
+CmdX.Parent = Frame
+CmdX.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CmdX.Position = UDim2.new(0.491299927, 0, 0.255623758, 0)
+CmdX.Size = UDim2.new(0, 139, 0, 39)
+CmdX.Font = Enum.Font.SourceSans
+CmdX.Text = "Cmd-X"
+CmdX.TextColor3 = Color3.fromRGB(0, 0, 0)
+CmdX.TextScaled = true
+CmdX.TextSize = 14.000
+CmdX.TextWrapped = true
+
+Chill.Name = "Chill"
+Chill.Parent = Frame
+Chill.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Chill.Position = UDim2.new(0.327533305, 0, 0.255623758, 0)
+Chill.Size = UDim2.new(0, 139, 0, 39)
+Chill.Font = Enum.Font.SourceSans
+Chill.Text = "Chill"
+Chill.TextColor3 = Color3.fromRGB(0, 0, 0)
+Chill.TextScaled = true
+Chill.TextSize = 14.000
+Chill.TextWrapped = true
+
+Memedances.Name = "Meme dances"
+Memedances.Parent = Frame
+Memedances.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Memedances.Position = UDim2.new(0.165813744, 0, 0.257668734, 0)
+Memedances.Size = UDim2.new(0, 139, 0, 39)
+Memedances.Font = Enum.Font.SourceSans
+Memedances.Text = "Meme dances"
+Memedances.TextColor3 = Color3.fromRGB(0, 0, 0)
+Memedances.TextScaled = true
+Memedances.TextSize = 14.000
+Memedances.TextWrapped = true
+
+Hathub.Name = "Hat hub"
+Hathub.Parent = Frame
+Hathub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Hathub.Position = UDim2.new(0.0133060506, 0, 0.474437624, 0)
+Hathub.Size = UDim2.new(0, 139, 0, 39)
+Hathub.Font = Enum.Font.SourceSans
+Hathub.Text = "Hat hub"
+Hathub.TextColor3 = Color3.fromRGB(0, 0, 0)
+Hathub.TextScaled = true
+Hathub.TextSize = 14.000
+Hathub.TextWrapped = true
+
+Revizadmin.Name = "Reviz admin"
+Revizadmin.Parent = Frame
+Revizadmin.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Revizadmin.Position = UDim2.new(0.163766637, 0, 0.474437624, 0)
+Revizadmin.Size = UDim2.new(0, 139, 0, 39)
+Revizadmin.Font = Enum.Font.SourceSans
+Revizadmin.Text = "reviz admin"
+Revizadmin.TextColor3 = Color3.fromRGB(0, 0, 0)
+Revizadmin.TextScaled = true
+Revizadmin.TextSize = 14.000
+Revizadmin.TextWrapped = true
+
+Penis.Name = "Penis"
+Penis.Parent = Frame
+Penis.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Penis.Position = UDim2.new(0.806550682, 0, 0.372188061, 0)
+Penis.Size = UDim2.new(0, 137, 0, 39)
+Penis.Font = Enum.Font.SourceSans
+Penis.Text = "Penis"
+Penis.TextColor3 = Color3.fromRGB(0, 0, 0)
+Penis.TextScaled = true
+Penis.TextSize = 14.000
+Penis.TextWrapped = true
+
+Sniper.Name = "Sniper"
+Sniper.Parent = Frame
+Sniper.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Sniper.Position = UDim2.new(0.648925304, 0, 0.372188091, 0)
+Sniper.Size = UDim2.new(0, 139, 0, 39)
+Sniper.Font = Enum.Font.SourceSans
+Sniper.Text = "Sniper"
+Sniper.TextColor3 = Color3.fromRGB(0, 0, 0)
+Sniper.TextScaled = true
+Sniper.TextSize = 14.000
+Sniper.TextWrapped = true
+
+Stand.Name = "Stand"
+Stand.Parent = Frame
+Stand.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Stand.Position = UDim2.new(0.327533245, 0, 0.372188121, 0)
+Stand.Size = UDim2.new(0, 139, 0, 39)
+Stand.Font = Enum.Font.SourceSans
+Stand.Text = "Stand"
+Stand.TextColor3 = Color3.fromRGB(0, 0, 0)
+Stand.TextScaled = true
+Stand.TextSize = 14.000
+Stand.TextWrapped = true
+
+GaleFighter.Name = "Gale Fighter"
+GaleFighter.Parent = Frame
+GaleFighter.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GaleFighter.Position = UDim2.new(0.0143295806, 0, 0.372188151, 0)
+GaleFighter.Size = UDim2.new(0, 137, 0, 39)
+GaleFighter.Font = Enum.Font.SourceSans
+GaleFighter.Text = "Gale fighter"
+GaleFighter.TextColor3 = Color3.fromRGB(0, 0, 0)
+GaleFighter.TextScaled = true
+GaleFighter.TextSize = 14.000
+GaleFighter.TextWrapped = true
+
+Gamersprint.Name = "Gamer sprint"
+Gamersprint.Parent = Frame
+Gamersprint.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Gamersprint.Position = UDim2.new(0.492323458, 0, 0.372188121, 0)
+Gamersprint.Size = UDim2.new(0, 139, 0, 39)
+Gamersprint.Font = Enum.Font.SourceSans
+Gamersprint.Text = "Gamer sprint"
+Gamersprint.TextColor3 = Color3.fromRGB(0, 0, 0)
+Gamersprint.TextScaled = true
+Gamersprint.TextSize = 14.000
+Gamersprint.TextWrapped = true
+
+Grappler.Name = "Grappler"
+Grappler.Parent = Frame
+Grappler.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Grappler.Position = UDim2.new(0.163766652, 0, 0.370143175, 0)
+Grappler.Size = UDim2.new(0, 139, 0, 39)
+Grappler.Font = Enum.Font.SourceSans
+Grappler.Text = "Grappler"
+Grappler.TextColor3 = Color3.fromRGB(0, 0, 0)
+Grappler.TextScaled = true
+Grappler.TextSize = 14.000
+Grappler.TextWrapped = true
+
+Hatfloat.Name = "Hat float"
+Hatfloat.Parent = Frame
+Hatfloat.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Hatfloat.Position = UDim2.new(0.648925304, 0, 0.474437624, 0)
+Hatfloat.Size = UDim2.new(0, 139, 0, 39)
+Hatfloat.Font = Enum.Font.SourceSans
+Hatfloat.Text = "Hat float"
+Hatfloat.TextColor3 = Color3.fromRGB(0, 0, 0)
+Hatfloat.TextScaled = true
+Hatfloat.TextSize = 14.000
+Hatfloat.TextWrapped = true
+
+Homebrewadmin.Name = "Homebrew admin"
+Homebrewadmin.Parent = Frame
+Homebrewadmin.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Homebrewadmin.Position = UDim2.new(0.165813729, 0, 0.793456018, 0)
+Homebrewadmin.Size = UDim2.new(0, 139, 0, 39)
+Homebrewadmin.Font = Enum.Font.SourceSans
+Homebrewadmin.Text = "Homebrew admin"
+Homebrewadmin.TextColor3 = Color3.fromRGB(0, 0, 0)
+Homebrewadmin.TextScaled = true
+Homebrewadmin.TextSize = 14.000
+Homebrewadmin.TextWrapped = true
+
+KnifeGrab.Name = "Knife Grab"
+KnifeGrab.Parent = Frame
+KnifeGrab.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+KnifeGrab.Position = UDim2.new(0.0112589598, 0, 0.793456018, 0)
+KnifeGrab.Size = UDim2.new(0, 139, 0, 39)
+KnifeGrab.Font = Enum.Font.SourceSans
+KnifeGrab.Text = "Knife Grab"
+KnifeGrab.TextColor3 = Color3.fromRGB(0, 0, 0)
+KnifeGrab.TextScaled = true
+KnifeGrab.TextSize = 14.000
+KnifeGrab.TextWrapped = true
+
+Kohlsadminscript.Name = "Kohls admin script"
+Kohlsadminscript.Parent = Frame
+Kohlsadminscript.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Kohlsadminscript.Position = UDim2.new(0.80450356, 0, 0.680981576, 0)
+Kohlsadminscript.Size = UDim2.new(0, 139, 0, 39)
+Kohlsadminscript.Font = Enum.Font.SourceSans
+Kohlsadminscript.Text = "kohls admin"
+Kohlsadminscript.TextColor3 = Color3.fromRGB(0, 0, 0)
+Kohlsadminscript.TextScaled = true
+Kohlsadminscript.TextSize = 14.000
+Kohlsadminscript.TextWrapped = true
+
+Linorix.Name = "Linorix"
+Linorix.Parent = Frame
+Linorix.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Linorix.Position = UDim2.new(0.648925304, 0, 0.680981576, 0)
+Linorix.Size = UDim2.new(0, 139, 0, 39)
+Linorix.Font = Enum.Font.SourceSans
+Linorix.Text = "Linorix"
+Linorix.TextColor3 = Color3.fromRGB(0, 0, 0)
+Linorix.TextScaled = true
+Linorix.TextSize = 14.000
+Linorix.TextWrapped = true
+
+MM2script.Name = "MM2 script"
+MM2script.Parent = Frame
+MM2script.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MM2script.Position = UDim2.new(0.492323458, 0, 0.680981576, 0)
+MM2script.Size = UDim2.new(0, 139, 0, 39)
+MM2script.Font = Enum.Font.SourceSans
+MM2script.Text = "MM2 script"
+MM2script.TextColor3 = Color3.fromRGB(0, 0, 0)
+MM2script.TextScaled = true
+MM2script.TextSize = 14.000
+MM2script.TextWrapped = true
+
+Blackhole.Name = "Black hole"
+Blackhole.Parent = Frame
+Blackhole.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Blackhole.Position = UDim2.new(0.327533275, 0, 0.680981576, 0)
+Blackhole.Size = UDim2.new(0, 139, 0, 39)
+Blackhole.Font = Enum.Font.SourceSans
+Blackhole.Text = "Black hole"
+Blackhole.TextColor3 = Color3.fromRGB(0, 0, 0)
+Blackhole.TextScaled = true
+Blackhole.TextSize = 14.000
+Blackhole.TextWrapped = true
+
+ndsscript.Name = "nds script"
+ndsscript.Parent = Frame
+ndsscript.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ndsscript.Position = UDim2.new(0.165813729, 0, 0.680981576, 0)
+ndsscript.Size = UDim2.new(0, 139, 0, 39)
+ndsscript.Font = Enum.Font.SourceSans
+ndsscript.Text = "Nds script"
+ndsscript.TextColor3 = Color3.fromRGB(0, 0, 0)
+ndsscript.TextScaled = true
+ndsscript.TextSize = 14.000
+ndsscript.TextWrapped = true
+
+necksnap.Name = "neck snap"
+necksnap.Parent = Frame
+necksnap.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+necksnap.Position = UDim2.new(0.0112589598, 0, 0.683026552, 0)
+necksnap.Size = UDim2.new(0, 139, 0, 39)
+necksnap.Font = Enum.Font.SourceSans
+necksnap.Text = "Neck snap"
+necksnap.TextColor3 = Color3.fromRGB(0, 0, 0)
+necksnap.TextScaled = true
+necksnap.TextSize = 14.000
+necksnap.TextWrapped = true
+
+Netbypass.Name = "Netbypass"
+Netbypass.Parent = Frame
+Netbypass.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Netbypass.Position = UDim2.new(0.80450356, 0, 0.580777109, 0)
+Netbypass.Size = UDim2.new(0, 139, 0, 39)
+Netbypass.Font = Enum.Font.SourceSans
+Netbypass.Text = "Netbypass"
+Netbypass.TextColor3 = Color3.fromRGB(0, 0, 0)
+Netbypass.TextScaled = true
+Netbypass.TextSize = 14.000
+Netbypass.TextWrapped = true
+
+Netlessbypass.Name = "Netlessbypass"
+Netlessbypass.Parent = Frame
+Netlessbypass.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Netlessbypass.Position = UDim2.new(0.648925304, 0, 0.580777109, 0)
+Netlessbypass.Size = UDim2.new(0, 139, 0, 39)
+Netlessbypass.Font = Enum.Font.SourceSans
+Netlessbypass.Text = "Netlessbypass"
+Netlessbypass.TextColor3 = Color3.fromRGB(0, 0, 0)
+Netlessbypass.TextScaled = true
+Netlessbypass.TextSize = 14.000
+Netlessbypass.TextWrapped = true
+
+Neptunianv.Name = "Neptunian v"
+Neptunianv.Parent = Frame
+Neptunianv.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Neptunianv.Position = UDim2.new(0.491299897, 0, 0.580777109, 0)
+Neptunianv.Size = UDim2.new(0, 139, 0, 39)
+Neptunianv.Font = Enum.Font.SourceSans
+Neptunianv.Text = "neptunian v"
+Neptunianv.TextColor3 = Color3.fromRGB(0, 0, 0)
+Neptunianv.TextScaled = true
+Neptunianv.TextSize = 14.000
+Neptunianv.TextWrapped = true
+
+Noobbat.Name = "Noob bat"
+Noobbat.Parent = Frame
+Noobbat.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Noobbat.Position = UDim2.new(0.327533275, 0, 0.580777109, 0)
+Noobbat.Size = UDim2.new(0, 139, 0, 39)
+Noobbat.Font = Enum.Font.SourceSans
+Noobbat.Text = "Noob bat"
+Noobbat.TextColor3 = Color3.fromRGB(0, 0, 0)
+Noobbat.TextScaled = true
+Noobbat.TextSize = 14.000
+Noobbat.TextWrapped = true
+
+Nullwarehub.Name = "Nullware hub"
+Nullwarehub.Parent = Frame
+Nullwarehub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Nullwarehub.Position = UDim2.new(0.164790183, 0, 0.580777109, 0)
+Nullwarehub.Size = UDim2.new(0, 139, 0, 39)
+Nullwarehub.Font = Enum.Font.SourceSans
+Nullwarehub.Text = "Nullware hub"
+Nullwarehub.TextColor3 = Color3.fromRGB(0, 0, 0)
+Nullwarehub.TextScaled = true
+Nullwarehub.TextSize = 14.000
+Nullwarehub.TextWrapped = true
+
+Prisonbreaker.Name = "Prison breaker"
+Prisonbreaker.Parent = Frame
+Prisonbreaker.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Prisonbreaker.Position = UDim2.new(0.0133060543, 0, 0.580777109, 0)
+Prisonbreaker.Size = UDim2.new(0, 137, 0, 39)
+Prisonbreaker.Font = Enum.Font.SourceSans
+Prisonbreaker.Text = "Prison breaker"
+Prisonbreaker.TextColor3 = Color3.fromRGB(0, 0, 0)
+Prisonbreaker.TextScaled = true
+Prisonbreaker.TextSize = 14.000
+Prisonbreaker.TextWrapped = true
+
+PrisonLifekillaura.Name = "Prison Life kill aura"
+PrisonLifekillaura.Parent = Frame
+PrisonLifekillaura.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PrisonLifekillaura.Position = UDim2.new(0.80450356, 0, 0.474437624, 0)
+PrisonLifekillaura.Size = UDim2.new(0, 139, 0, 39)
+PrisonLifekillaura.Font = Enum.Font.SourceSans
+PrisonLifekillaura.Text = "Prison life kill aura"
+PrisonLifekillaura.TextColor3 = Color3.fromRGB(0, 0, 0)
+PrisonLifekillaura.TextScaled = true
+PrisonLifekillaura.TextSize = 14.000
+PrisonLifekillaura.TextWrapped = true
+
+r15animations.Name = "r15 animations"
+r15animations.Parent = Frame
+r15animations.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+r15animations.Position = UDim2.new(0.491299927, 0, 0.474437624, 0)
+r15animations.Size = UDim2.new(0, 139, 0, 39)
+r15animations.Font = Enum.Font.SourceSans
+r15animations.Text = "R15 animtions"
+r15animations.TextColor3 = Color3.fromRGB(0, 0, 0)
+r15animations.TextScaled = true
+r15animations.TextSize = 14.000
+r15animations.TextWrapped = true
+
+Retarddance.Name = "Retard dance"
+Retarddance.Parent = Frame
+Retarddance.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Retarddance.Position = UDim2.new(0.327533305, 0, 0.474437624, 0)
+Retarddance.Size = UDim2.new(0, 139, 0, 39)
+Retarddance.Font = Enum.Font.SourceSans
+Retarddance.Text = "Retard dance"
+Retarddance.TextColor3 = Color3.fromRGB(0, 0, 0)
+Retarddance.TextScaled = true
+Retarddance.TextSize = 14.000
+Retarddance.TextWrapped = true
+
+Open.Name = "Open"
+Open.Parent = ScreenGui
+Open.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Open.Position = UDim2.new(0, 0, 0.467515916, 0)
+Open.Size = UDim2.new(0, 78, 0, 40)
+Open.Font = Enum.Font.SourceSans
+Open.Text = "Open/close"
+Open.TextColor3 = Color3.fromRGB(0, 0, 0)
+Open.TextScaled = true
+Open.TextSize = 14.000
+Open.TextWrapped = true
+
+-- Scripts:
+
+local function RZHXY_fake_script() -- close.LocalScript 
+	local script = Instance.new('LocalScript', close)
+
+	script.Parent.MouseButton1Click:connect(function()
+		script.Parent.Parent.Visible = false
+	end)
+end
+coroutine.wrap(RZHXY_fake_script)()
+local function QVTI_fake_script() -- infiniteyield.LocalScript 
+	local script = Instance.new('LocalScript', infiniteyield)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(QVTI_fake_script)()
+local function ODLLTN_fake_script() -- breakdance.LocalScript 
+	local script = Instance.new('LocalScript', breakdance)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/najJv4Sh'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(ODLLTN_fake_script)()
+local function LRKU_fake_script() -- arsnelkillall.LocalScript 
+	local script = Instance.new('LocalScript', arsnelkillall)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/4KV7Bt81'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(LRKU_fake_script)()
+local function RTLOJ_fake_script() -- robloxwaterparkgui.LocalScript 
+	local script = Instance.new('LocalScript', robloxwaterparkgui)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/YD8puexF'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(RTLOJ_fake_script)()
+local function VUSTHRA_fake_script() -- Russiankickdancer6.LocalScript 
+	local script = Instance.new('LocalScript', Russiankickdancer6)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/yKzJFvV5'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(VUSTHRA_fake_script)()
+local function BBRUSU_fake_script() -- Russainkickdancer15.LocalScript 
+	local script = Instance.new('LocalScript', Russainkickdancer15)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/d5r9bR5v'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(BBRUSU_fake_script)()
+local function DAZNLR_fake_script() -- nameless.LocalScript 
+	local script = Instance.new('LocalScript', nameless)
+
+	function Clicked() 
+	
+		loadstring(game:GetObjects("rbxassetid://5688101100")[1].Source)()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(DAZNLR_fake_script)()
+local function XEPYN_fake_script() -- cappuccino.LocalScript 
+	local script = Instance.new('LocalScript', cappuccino)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/boop71/cappuccino-new/main/loader.lua'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(XEPYN_fake_script)()
+local function DMOJ_fake_script() -- Chatbypass.LocalScript 
+	local script = Instance.new('LocalScript', Chatbypass)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://the-shed.xyz/roblox/scripts/ChatBypass", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(DMOJ_fake_script)()
+local function XTHFYU_fake_script() -- CmdX.LocalScript 
+	local script = Instance.new('LocalScript', CmdX)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(XTHFYU_fake_script)()
+local function DIAP_fake_script() -- Chill.LocalScript 
+	local script = Instance.new('LocalScript', Chill)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGetAsync("https://pastebin.com/raw/XmHFdTij"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(DIAP_fake_script)()
+local function QYWBSG_fake_script() -- Memedances.LocalScript 
+	local script = Instance.new('LocalScript', Memedances)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/UfzKgS6T'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(QYWBSG_fake_script)()
+local function HPCSB_fake_script() -- Hathub.LocalScript 
+	local script = Instance.new('LocalScript', Hathub)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://paste.ee/r/bf5oO", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(HPCSB_fake_script)()
+local function VGDP_fake_script() -- Revizadmin.LocalScript 
+	local script = Instance.new('LocalScript', Revizadmin)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/bwZSnFkF'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(VGDP_fake_script)()
+local function MJWJ_fake_script() -- Penis.LocalScript 
+	local script = Instance.new('LocalScript', Penis)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/fishyboy881/pp/main/ff'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(MJWJ_fake_script)()
+local function CMCDAQ_fake_script() -- Sniper.LocalScript 
+	local script = Instance.new('LocalScript', Sniper)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/tDPg6LGz'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(CMCDAQ_fake_script)()
+local function KZVDAN_fake_script() -- Stand.LocalScript 
+	local script = Instance.new('LocalScript', Stand)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/31n15TkB'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(KZVDAN_fake_script)()
+local function YRJN_fake_script() -- GaleFighter.LocalScript 
+	local script = Instance.new('LocalScript', GaleFighter)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/af8FBr5H'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(YRJN_fake_script)()
+local function WRJC_fake_script() -- Gamersprint.LocalScript 
+	local script = Instance.new('LocalScript', Gamersprint)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/UK8ssLmn'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(WRJC_fake_script)()
+local function PBKBK_fake_script() -- Grappler.LocalScript 
+	local script = Instance.new('LocalScript', Grappler)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/FZ9Xs87z'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(PBKBK_fake_script)()
+local function VKIM_fake_script() -- Hatfloat.LocalScript 
+	local script = Instance.new('LocalScript', Hatfloat)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/4B4fktPS", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(VKIM_fake_script)()
+local function QFLAISU_fake_script() -- Homebrewadmin.LocalScript 
+	local script = Instance.new('LocalScript', Homebrewadmin)
+
+	function Clicked() 
+	
+		_G.CustomUI = false
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/mgamingpro/HomebrewAdmin/master/Main'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(QFLAISU_fake_script)()
+local function OEJTCAZ_fake_script() -- KnifeGrab.LocalScript 
+	local script = Instance.new('LocalScript', KnifeGrab)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/hkayCJtj'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(OEJTCAZ_fake_script)()
+local function BFQKXE_fake_script() -- Kohlsadminscript.LocalScript 
+	local script = Instance.new('LocalScript', Kohlsadminscript)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Games/Kohls%20Admin%20House/DarkKohls/GUI.lua"))()
+	
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(BFQKXE_fake_script)()
+local function AIQMHG_fake_script() -- Linorix.LocalScript 
+	local script = Instance.new('LocalScript', Linorix)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/KumP53dH'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(AIQMHG_fake_script)()
+local function HTVJF_fake_script() -- MM2script.LocalScript 
+	local script = Instance.new('LocalScript', MM2script)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(HTVJF_fake_script)()
+local function UBRH_fake_script() -- Blackhole.LocalScript 
+	local script = Instance.new('LocalScript', Blackhole)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/Ge2gy2jC'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(UBRH_fake_script)()
+local function MEDBUB_fake_script() -- ndsscript.LocalScript 
+	local script = Instance.new('LocalScript', ndsscript)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringUjHI6RQpz2o8", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(MEDBUB_fake_script)()
+local function ZWSUWT_fake_script() -- necksnap.LocalScript 
+	local script = Instance.new('LocalScript', necksnap)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/0AKrv1qA", true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(ZWSUWT_fake_script)()
+local function BOFHO_fake_script() -- Netbypass.LocalScript 
+	local script = Instance.new('LocalScript', Netbypass)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/kt7AXswY'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(BOFHO_fake_script)()
+local function GCCSPFU_fake_script() -- Netlessbypass.LocalScript 
+	local script = Instance.new('LocalScript', Netlessbypass)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/Cu7bKQWN'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(GCCSPFU_fake_script)()
+local function BPFEGD_fake_script() -- Neptunianv.LocalScript 
+	local script = Instance.new('LocalScript', Neptunianv)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/mememasterboi/a-lot-of-scripts/master/Obfuscate%20Template.txt'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(BPFEGD_fake_script)()
+local function MWJGJ_fake_script() -- Noobbat.LocalScript 
+	local script = Instance.new('LocalScript', Noobbat)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet(('https://pastebin.com/raw/ng6tiFGw'),true))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(MWJGJ_fake_script)()
+local function WQYBOH_fake_script() -- Nullwarehub.LocalScript 
+	local script = Instance.new('LocalScript', Nullwarehub)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/37eef2120d509b37b31fa73944ab2361/raw/kT2fVEFnzDfCRXAP"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(WQYBOH_fake_script)()
+local function WGDSX_fake_script() -- Prisonbreaker.LocalScript 
+	local script = Instance.new('LocalScript', Prisonbreaker)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/P92f1RTG"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(WGDSX_fake_script)()
+local function NLHDB_fake_script() -- PrisonLifekillaura.LocalScript 
+	local script = Instance.new('LocalScript', PrisonLifekillaura)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/7BaPeuHb"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(NLHDB_fake_script)()
+local function FPWMCAO_fake_script() -- r15animations.LocalScript 
+	local script = Instance.new('LocalScript', r15animations)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/R15GUI.lua"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(FPWMCAO_fake_script)()
+local function JGMVIJ_fake_script() -- Retarddance.LocalScript 
+	local script = Instance.new('LocalScript', Retarddance)
+
+	function Clicked() 
+	
+		loadstring(game:HttpGet("https://pastebin.com/raw/7K9JLVjJ"))()
+	
+	end
+	
+	script.Parent.MouseButton1Click:connect(Clicked)
+end
+coroutine.wrap(JGMVIJ_fake_script)()
+local function LQTW_fake_script() -- Frame.Dragify 
+	local script = Instance.new('LocalScript', Frame)
+
+	local UIS = game:GetService("UserInputService")
+	function dragify(Frame)
+	    dragToggle = nil
+	    local dragSpeed = 0
+	    dragInput = nil
+	    dragStart = nil
+	    local dragPos = nil
+	    function updateInput(input)
+	        local Delta = input.Position - dragStart
+	        local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+	        game:GetService("TweenService"):Create(Frame, TweenInfo.new(0.25), {Position = Position}):Play()
+	    end
+	    Frame.InputBegan:Connect(function(input)
+	        if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+	            dragToggle = true
+	            dragStart = input.Position
+	            startPos = Frame.Position
+	            input.Changed:Connect(function()
+	                if input.UserInputState == Enum.UserInputState.End then
+	                    dragToggle = false
+	                end
+	            end)
+	        end
+	    end)
+	    Frame.InputChanged:Connect(function(input)
+	        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+	            dragInput = input
+	        end
+	    end)
+	    game:GetService("UserInputService").InputChanged:Connect(function(input)
+	        if input == dragInput and dragToggle then
+	            updateInput(input)
+	        end
+	    end)
+	end
+	
+	dragify(script.Parent)
+end
+coroutine.wrap(LQTW_fake_script)()
+local function IXLL_fake_script() -- Open.LocalScript 
+	local script = Instance.new('LocalScript', Open)
+
+		local frame = script.Parent.Parent.Frame
+	local open = false
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if frame.Visible == false then
+			frame.Visible = true
+		else
+			frame.Visible = false
+		end
+	end)
+end
+coroutine.wrap(IXLL_fake_script)()
